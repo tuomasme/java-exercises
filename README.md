@@ -1,1 +1,1 @@
-# java-exercises
+Yliopistokursseilla erilaisia tekemiäni java-ohjelmointitehtäviä. 
