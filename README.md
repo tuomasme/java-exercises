@@ -1,1 +1,1 @@
-Yliopistokursseilla erilaisia tekemiäni java-ohjelmointitehtäviä. 
+Erilaisia yliopistokursseilla tekemiäni java-ohjelmointitehtäviä. 
